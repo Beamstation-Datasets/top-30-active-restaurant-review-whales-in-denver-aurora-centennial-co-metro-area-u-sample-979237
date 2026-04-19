@@ -9,9 +9,9 @@
 | Dataset ID | `979237` |
 | Location | Denver-Aurora-Centennial, CO |
 | Category | Restaurants |
-| Full dataset size | 1,556 records |
-| Free sample size | 262 records (16.84%) |
-| Last export | 2026-04-01T00:33:56.582047+00:00 |
+| Full dataset size | 2,622 records |
+| Free sample size | 262 records (9.99%) |
+| Last export | 2026-04-15T02:24:52.459702+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-denver-aurora-centennial-co-metro-area-u-sample-979237/releases/download/sample-latest/beamstation_979237_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
