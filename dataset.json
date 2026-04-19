@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Review Whales in Denver-Aurora-Centennial, CO Metro Area, US",
-  "export_job_id": "7ea87a5d-30dc-48e1-951b-8ef9b8dc6b08",
+  "export_job_id": "25ac8fd7-0fac-4661-a06a-70fadbf09924",
   "github_org": "Beamstation-Datasets",
   "id_short": 979237,
   "location_name": "Denver-Aurora-Centennial, CO",
   "location_type": "metro",
   "repo_name": "top-30-active-restaurant-review-whales-in-denver-aurora-centennial-co-metro-area-u-sample-979237",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/979237/beamstation_979237_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv",
-  "sample_pct": 16.84,
+  "sample_pct": 9.99,
   "sample_records": 262,
   "sample_sha256": "472f331aec1eac65bed39788314cca0d8b41929553e83128ae2cfee6caeb7f02",
   "sample_size_bytes": 1071643,
-  "total_records": 1556,
-  "updated_at": "2026-04-01T00:33:56.582047+00:00"
+  "total_records": 2622,
+  "updated_at": "2026-04-15T02:24:52.459702+00:00"
 }
