@@ -1,12 +1,12 @@
 {
-  "export_job_id": "25ac8fd7-0fac-4661-a06a-70fadbf09924",
+  "export_job_id": "7dcca74f-23b4-4c90-8697-941e5ca4fdd1",
   "id_short": 979237,
-  "published_at": "2026-04-19T07:08:55Z",
+  "published_at": "2026-04-23T07:19:50Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-denver-aurora-centennial-co-metro-area-u-sample-979237",
   "sample_asset_name": "beamstation_979237_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/979237/beamstation_979237_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv",
-  "sample_records": 262,
-  "sample_sha256": "472f331aec1eac65bed39788314cca0d8b41929553e83128ae2cfee6caeb7f02",
-  "sample_size_bytes": 1071643,
-  "total_records": 2622
+  "sample_records": 219,
+  "sample_sha256": "ce17a63fd2a13dc54531a9e519cd68e32c065c2966b2dea84623631ee6f3ee7f",
+  "sample_size_bytes": 889496,
+  "total_records": 2191
 }
